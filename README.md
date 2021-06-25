@@ -26,9 +26,9 @@
 
 | STT   | Họ tên                 | MSSV       | Vai trò     | Email                  | Github                                                     | 
 | :---: | ---                    | ---        | ---         | ---                    | ---                                                        |
-| 1     | <strong>  Hoàng Xuân Vũ </strong>  | 19520214   | Nhóm trưởng | 19522531@gm.uit.edu.vn | [19522531](https://github.com/19522531)                    | 
-| 2     |<strong> Nguyễn Đạt Huy Hoàng   | 19520195   | Thành viên  | 19520195@gm.uit.edu.vn | [nguyendathuyhoang](https://github.com/nguyendathuyhoang)  |
-| 3     | <strong>Nguyễn Văn Tài         | 19521216   | Thành viên  | 19521216@gm.uit.edu.vn | [nguyentai090301](https://github.com/nguyentai090301)      |
+| 1     | <strong>  Hoàng Xuân Vũ </strong>  | 19522531   | Nhóm trưởng | 19522531@gm.uit.edu.vn | [19522531](https://github.com/19522531)                    | 
+| 2     |<strong> Nguyễn Đạt Huy Hoàng   | 19521536   | Thành viên  | 19521536@gm.uit.edu.vn | [nguyendathuyhoang](https://github.com/nguyendathuyhoang)  |
+| 3     | <strong>Nguyễn Văn Tài         | 19522154   | Thành viên  | 19522154@gm.uit.edu.vn | [nguyentai090301](https://github.com/nguyentai090301)      |
 | 4     | <strong> Đỗ Nguyễn Hoàng Huy    |19521603    | Thành viên  | 19521603@gm.uit.edu.vn | [Al3xDo](https://github.com/Al3xDo)                        |  
 
 ## CHỦ ĐỀ BÁO CÁO
